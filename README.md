@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
@@ -8,6 +9,11 @@
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -17,16 +23,22 @@ In the project directory, you can run:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 ### `yarn start`
 =======
 ### `npm start`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+<<<<<<< HEAD
 =======
 ### `npm start`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 ### `npm start`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -37,16 +49,22 @@ You will also see any lint errors in the console.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 ### `yarn test`
 =======
 ### `npm test`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+<<<<<<< HEAD
 =======
 ### `npm test`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 ### `npm test`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
@@ -54,16 +72,22 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 ### `yarn build`
 =======
 ### `npm run build`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+<<<<<<< HEAD
 =======
 ### `npm run build`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 ### `npm run build`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -76,16 +100,22 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 ### `yarn eject`
 =======
 ### `npm run eject`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+<<<<<<< HEAD
 =======
 ### `npm run eject`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 ### `npm run eject`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -124,14 +154,20 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
+<<<<<<< HEAD
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
@@ -141,8 +177,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 >>>>>>> 3ffa2ebaf4dffff3161f8420f1b0df9a197ed82d
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da

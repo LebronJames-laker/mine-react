@@ -7,12 +7,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
 =======
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+<<<<<<< HEAD
 =======
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
@@ -21,6 +25,8 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
     "antd": "^4.1.4",
     "babel-plugin-import": "^1.13.0",
     "customize-cra": "^0.9.1",
@@ -32,17 +38,23 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1"
 =======
     "react-scripts": "^3.4.1"
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+<<<<<<< HEAD
 =======
     "react-scripts": "^3.4.1"
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
     "react-scripts": "^3.4.1"
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
   },
   "scripts": {
     "start": "react-app-rewired start",
@@ -50,17 +62,23 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
 =======
     "test": "react-app-rewired test"
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+<<<<<<< HEAD
 =======
     "test": "react-app-rewired test"
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
     "test": "react-app-rewired test"
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> a2e46ab52f53ab8b2d02787db49efe454270d4ff
   },
   "eslintConfig": {
     "extends": "react-app"
