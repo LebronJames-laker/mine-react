@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
@@ -17,7 +20,11 @@ In the project directory, you can run:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### `yarn start`
+=======
+### `npm start`
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 ### `npm start`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
@@ -37,7 +44,11 @@ You will also see any lint errors in the console.
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### `yarn test`
+=======
+### `npm test`
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 ### `npm test`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
@@ -54,7 +65,11 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### `yarn build`
+=======
+### `npm run build`
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 ### `npm run build`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
@@ -76,7 +91,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### `yarn eject`
+=======
+### `npm run eject`
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 ### `npm run eject`
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
@@ -124,10 +143,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 =======
+=======
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
@@ -141,6 +163,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 >>>>>>> 3ffa2ebaf4dffff3161f8420f1b0df9a197ed82d
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da

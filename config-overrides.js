@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  const { override, fixBabelImports, addLessLoader } = require('customize-cra');
 
  module.exports = override(
@@ -14,6 +15,8 @@
        modifyVars: { '@primary-color': '#1DA57A' },
     }),
 =======
+=======
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
@@ -32,6 +35,9 @@ module.exports = override(
    }),
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da

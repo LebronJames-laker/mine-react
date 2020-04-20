@@ -2,6 +2,7 @@ import React from 'react';
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 import {BrowserRouter,Route,Switch} from 'react-router-dom';
 import Login from './pages/login/login';
 import Admin from './pages/admin/admin';
@@ -25,6 +26,8 @@ export default class App extends React.Component{
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 import { Button,message} from 'antd'
 //自定义一个App组件
 export default class App extends React.Component{
@@ -36,6 +39,9 @@ export default class App extends React.Component{
         return <Button type="primary" onClick={this.handleClick}>点击我</Button>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
+=======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
 =======
 >>>>>>> 0766ece441bb4b4b7e19ff2aa0e9a4f00dc976da
