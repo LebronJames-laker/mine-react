@@ -5,6 +5,6 @@
  */
 import ajax from './ajax'
 //登录接口 
-export const reqLogin = (username,password,token)=>ajax('http://172.18.100.86:3001/#/login',{username,password,token},'POST')
+export const reqLogin = (userName,passWord)=>ajax('/login',{userName,passWord},'POST')
 //添加用户的接口
 export const reqAddUser = (user)=>ajax('/manage/user/add',user,'POST')

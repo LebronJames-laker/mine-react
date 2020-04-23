@@ -1,19 +1,23 @@
 import React from 'react';
 import './login.less';
-import logo from './images/logo.jpg';
+import logo from '../../asserts/images/logo.jpg';
 import { Form, Input, Button, Checkbox,message } from 'antd';
 import { UserOutlined, LockOutlined } from '@ant-design/icons';
-import MyForm from './MyForm'
-    
-   
+import MyForm from './MyForm'   
+import memoryUtils from '../../utils/memoryUtils'
+import { Redirect } from 'react-router-dom';
 //自定义一个App组件
+//此时login组件props属性接收到createRef
 export default class Login extends React.Component{
-    
     
     
     render(){
         // const form = this.props.form
         // const {getFieldDecorator} = form
+        const user = memoryUtils.user
+        if(user){
+            return <Redirect to='/admin'/>
+        }
         return(
             <div className='login'>
                 <header className='login-header'>
@@ -22,7 +26,7 @@ export default class Login extends React.Component{
                 </header>
                 <section className='login-content'>
                     <h1>用户登录</h1>
-                    <MyForm/>
+                    <MyForm dataList={this.props}/>
                 </section>
             </div>
         );
