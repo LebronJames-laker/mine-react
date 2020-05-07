@@ -26,12 +26,11 @@ export default class MyForm extends React.Component{
                 // // const result = response.userId
                 //保存user对象的数据
                 message.success('登录成功')
-                const user = result.resultType
-                // memoryUtils.user = user
-                //将user的信息保存到本地
-                storageUtils.saveUser(user)
-                this.props.dataList.history.replace('/admin')
-                
+                // const user = result.resultType
+                // // memoryUtils.user = user
+                // //将user的信息保存到本地
+                // storageUtils.saveUser(user)
+                this.props.dataList.history.replace('/admin')  
             }else{
                 message.error('用户名或密码错误')
             }

@@ -14,10 +14,10 @@ export default class Login extends React.Component{
     render(){
         // const form = this.props.form
         // const {getFieldDecorator} = form
-        const user = memoryUtils.user
-        if(user){
-            return <Redirect to='/admin'/>
-        }
+        // const user = memoryUtils.user
+        // if(user.userId){
+        //     return <Redirect to='/admin'/>
+        // }
         return(
             <div className='login'>
                 <header className='login-header'>

@@ -1,0 +1,60 @@
+//定义一个菜单数组，为了在后台页面能够动态的生成菜单栏
+//数据可以先写死，后期会动态的传入数据，作为每个属性的值
+const menuList=[
+    {
+        title:'首页',
+        key:'/home',
+        icon:'<HomeOutlined/>'
+    },
+    {
+        title:'产品',
+        key:'/products',
+        icon:'MailOutlined',
+        children:[ //子菜单列表
+            {
+                title:'分类管理',
+                key:'/category',
+                icon:'<MailOutlined/>'
+            },
+            {
+                title:'生产管理',
+                key:'/product',
+                icon:'<MailOutlined/>'
+            },
+        ]
+    },
+    {
+        title:'用户管理',
+        key:'/user',
+        icon:'<HomeOutlined/>'
+    },
+    {
+        title:'角色管理',
+        key:'/role',
+        icon:'<HomeOutlined/>'
+    },
+    {
+        title:'图形图表',
+        key:'/charts',
+        icon:'MailOutlined',
+        children:[ //子菜单列表
+            {
+                title:'折线图',
+                key:'/charts/line',
+                icon:'<MailOutlined/>'
+            },
+            {
+                title:'柱状图',
+                key:'/charts/bar',
+                icon:'<MailOutlined/>'
+            },
+            {
+                title:'饼图',
+                key:'/charts/pie',
+                icon:'<MailOutlined/>'
+            },
+        ] 
+    }
+
+]
+export default menuList

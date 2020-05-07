@@ -11,13 +11,12 @@ export default class App extends React.Component{
         return (
             <BrowserRouter>
                 <Switch>  
-                    <Route path='/admin' component={Admin}></Route>       
+                    <Route path='/' component={Admin}></Route>       
                     <Route path='/login' component={Login}></Route>
-                    <Redirect to='/login'/>
+                    {/* <Redirect to='/login'/> */}
                 </Switch>
             </BrowserRouter>
             
         );
-
     }
 }
